@@ -5,6 +5,9 @@ This week, we'll be looking at the intentionally broad topic of web application 
 ## Challenges
 
  * https://google-gruyere.appspot.com/
+ * http://webhacking.kr/ (Untested.)
+ * [hackthissite.org](https://www.hackthissite.org/) (Not strictly web-application)
+ * [Natas](http://overthewire.org/wargames/natas/)
 
 ## Interesting Links
 
