@@ -8,6 +8,7 @@ This week, we'll be looking at the intentionally broad topic of web application 
  * http://webhacking.kr/ (Untested.)
  * [hackthissite.org](https://www.hackthissite.org/) (Not strictly web-application)
  * [Natas](http://overthewire.org/wargames/natas/)
+ * [Hellbound Hackers](https://www.hellboundhackers.org/)
 
 ## Interesting Links
 
