@@ -9,6 +9,8 @@ This week, we'll be looking at the intentionally broad topic of web application 
  * [hackthissite.org](https://www.hackthissite.org/) (Not strictly web-application)
  * [Natas](http://overthewire.org/wargames/natas/)
  * [Hellbound Hackers](https://www.hellboundhackers.org/)
+ * [XSS Challenges](http://xss-quiz.int21h.jp/) (Untested.)
+ * [w3challs](http://w3challs.com/) (Untested.)
 
 ## Interesting Links
 
