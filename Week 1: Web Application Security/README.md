@@ -1,4 +1,4 @@
-# Slothkrew Weekly 1
+# Slothkrew Weekly 1: Web Application Security
 
 This week, we'll be looking at the intentionally broad topic of web application security.
 
