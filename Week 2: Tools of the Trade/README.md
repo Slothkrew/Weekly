@@ -6,3 +6,4 @@ Each tool should get its own file in this folder called tool_name.md. `snake_cas
 
  * nmap
  * netcat
+ * Burp Suite
