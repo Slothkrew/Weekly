@@ -4,4 +4,5 @@ Tools! If there's anything cool that you think people might want to know about, 
 
 Each tool should get its own file in this folder called tool_name.md. `snake_case` preferred. Currently in here:
 
-* nmap
+ * nmap
+ * netcat
