@@ -15,3 +15,5 @@ and actions organizations need to take to mitigate or, hopefully, eliminate the
 threats altogether. 
 
 Source: [SANS Reading Room](https://www.sans.org/reading-room/whitepapers/analyst/understanding-preventing-threats-point-sale-systems-36332)
+
+Next weeks' 'Papermaster of the week': [jsrn](https://github.com/jsrn)
