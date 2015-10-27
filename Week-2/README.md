@@ -12,3 +12,5 @@ lager projects (if you doubt this ask your local Rails startup peeps :) ).
 
 
 Source: [Phrack Magazine](http://www.phrack.org/papers/attacking_ruby_on_rails.html)
+
+Next week: sleeper
